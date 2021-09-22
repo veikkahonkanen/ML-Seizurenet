@@ -1,1 +1,1 @@
-# ML-Seizurenet
+# ml-seizure
